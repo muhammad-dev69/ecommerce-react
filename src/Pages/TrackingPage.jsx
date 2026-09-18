@@ -1,7 +1,7 @@
 import'./header.css';
 import'./TrackingPage.css'
 
-export function Tracking(){
+export function TrackingPage(){
     return(
         <>
           <title>Tracking</title>
